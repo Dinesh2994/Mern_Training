@@ -34,7 +34,7 @@ It allows users to create, view, book, update, and cancel events seamlessly.
 ---
 
 ## 📂 Frontend Folder Structure (`capstone/`)
-
+``text
 capstone/
 ├─ public/
 │ ├─ index.html
@@ -60,10 +60,7 @@ capstone/
 │ ├─ App.css
 │ └─ index.js
 ├─ package.json
-└─ README.md
-
-yaml
-Copy code
+└─ README.me
 
 ---
 
